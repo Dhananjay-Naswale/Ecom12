@@ -12,3 +12,4 @@ public class EcomApplication {
         System.out.println("context created");
         //applicationContext.close();
     }
+}
